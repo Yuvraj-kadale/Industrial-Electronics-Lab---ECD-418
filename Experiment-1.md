@@ -11,8 +11,10 @@ Multisim or MATLAB.
 
 **Theory:**   
 An electronic device that produces a non-sinusoidal waveform as its output is known as a Multivibrator. The generated non-sinusoidal waveforms are basically a square wave, rectangular wave, a triangular wave, sawtooth wave, or ramp wave etc.
-**Astable Multivibrator** is a type of multivibrator also termed as a *free running multivibrator*. It is called so because here the state changes on its own after some predetermined time interval and thus does not require a triggering pulse. Here, the output of the circuit simply oscillates between high and low state freely. Hence is just an oscillator.
- 
+**Astable Multivibrator** is a type of multivibrator also termed as a *free running multivibrator*. It is called so because here the state changes on its own after some predetermined time interval and thus does not require a triggering pulse. Here, the output of the circuit simply oscillates between high and low state freely. Hence is just an oscillator.  
+
+![image](https://user-images.githubusercontent.com/43489758/129487409-895aef0c-3f27-41b6-9611-a199d3a774a7.png) 
+   
 In Astable multivibrator, both outputs states are unstable. It can be built using 555 timer IC. A 555 timer IC has two comparators, a R-5 Flip-flop, 2 Transistors and a resistive network. The Resistive network consists of three equal resistors (5K ohms each) and acts as a voltage divider. 
 Voltage at the inverting of comparators 1 will be 2/3 Vcc and the positive terminal of comparator 2 will be 1/3 Vcc. Comparator 1 compares the threshold voltage (at pin 6) with the reference voltage +2/3 Vcc. Comparator 2 compares the trigger voltage (at pin 0.2) with +1/3 Volts.  
 
@@ -22,7 +24,11 @@ An Astable Multivibarator can be designed by adding tow resistors R1 and R2 and 
 
 **Circuit Diagram:**
  
+ ![image](https://user-images.githubusercontent.com/43489758/129487421-bfb914a4-7679-446b-b53d-22953a2d558d.png)  
+  
 *IC- 555 Block Diagram*
+
+![image](https://user-images.githubusercontent.com/43489758/129487429-64b3c9e6-312e-45eb-8964-27d3667acf58.png)  
  
 *Circuit Diagram (Simulation on Multisim- online simulator)*
 
@@ -68,18 +74,27 @@ Where,
 
 
 **Observation:**
- 
+
+![image](https://user-images.githubusercontent.com/43489758/129487448-3968708a-be89-458e-8c5e-056e0e93fdd6.png)  
+
 *Output Wave form of IC 555*
 
 
- 
+ ![image](https://user-images.githubusercontent.com/43489758/129487457-171d7f2d-27bc-48ff-98bc-68cfefd3fc48.png)  
+
 *Simulation and observation on LT spice*
-
-
 
 **Results:**
  
+ 
+ ![image](https://user-images.githubusercontent.com/43489758/129487470-af4a730a-d460-4218-9e39-e3518e6dd936.png)  
+
 *Simulation and waveform on multism online simulator*  
+
+
+**Simulation file:**  
+[![](https://www.multisim.com/api/v1/image/2129024/thxn2m9a7d7q2o9jo7lzxd-pngthumbnailcircuit/555_astable_mv_184534.png)   
+Multisim Live: 555_astable_mv_184534](https://www.multisim.com/content/THxn2M9A7D7Q2o9jo7LzXD/555_astable_mv_184534/)
 
 
 In the performed experiment by taking R1 = 1K ohms, R2= 1K ohms , C1= 1 microF, C2=0.01 microF.
