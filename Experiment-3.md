@@ -131,7 +131,7 @@ Average current:
 *(f) Output Voltage with RC load*  
 
 **Simulation File:**
-[Matlab Simulink](https://matlab.mathworks.com/)
+[Matlab Simulink](https://drive.matlab.com/sharing/7cd38724-9891-4532-82ad-b95511be0f13)
 
 **Precautions:**
 
