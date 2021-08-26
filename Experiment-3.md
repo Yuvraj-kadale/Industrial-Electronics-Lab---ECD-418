@@ -83,11 +83,22 @@ Average current:
 
 **Circuit Diagram:**
 
+![image](https://user-images.githubusercontent.com/43489758/130924089-3e6e4138-8d41-4e0b-bdbc-642e14ce9c60.png)    
 *Half wave Uncontrolled Rectifier with R load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924141-8071e083-a567-4bf0-871f-cf5d88d1c0ac.png)  
 *Half wave Uncontrolled Rectifier with L load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924175-0d4b0504-1eea-4dfa-aa62-0d4eebfab006.png)  
 *Half wave Uncontrolled Rectifier with C load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924192-d330c7fb-d7e6-4b73-9baf-f0f8a7576df4.png)   
 *Half wave Uncontrolled Rectifier with RLC load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924206-da9d7056-5c9a-401d-8f25-a21207179860.png)   
 *Half wave Uncontrolled Rectifier with RL load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924216-8956cd28-391a-42db-8d1a-6d04f7177bc2.png)   
 *Half wave Uncontrolled Rectifier with RC load*  
 
 
@@ -101,12 +112,26 @@ Average current:
 
 **Observation:** 
 
-*(a)Output Voltage with R load*  
+![image](https://user-images.githubusercontent.com/43489758/130924238-c26ebace-5aa4-4cff-b804-a4a24db65d7e.png)  
+*(a)Output Voltage with R load*
+
+![image](https://user-images.githubusercontent.com/43489758/130924257-d42c1185-708b-4689-96fa-193d01f02a8c.png)  
 *(b) Output Voltage with L load*   
+
+![image](https://user-images.githubusercontent.com/43489758/130924283-7aea6701-39bd-4c21-b4c2-140c5babdc68.png)  
 *(c) Output Voltage with C load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924296-768ce6a3-d519-4fc8-acb6-964ca26030d3.png)  
 *(d) Output Voltage with RLC load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924315-995628b0-082c-483f-9bf6-ec480077b424.png)  
 *(e) Output Voltage with RL load*  
+
+![image](https://user-images.githubusercontent.com/43489758/130924334-cfba82ce-1a87-4551-930f-d34e7668264c.png)  
 *(f) Output Voltage with RC load*  
+
+**Simulation File:**
+[Matlab Simulink](https://matlab.mathworks.com/)
 
 **Precautions:**
 
