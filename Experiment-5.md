@@ -18,6 +18,8 @@ Ripple is calculated using the formula:
 
 **Circuit Diagram:**
  
+ ![image](https://user-images.githubusercontent.com/43489758/132050638-022829f7-84f8-4bba-a4ec-18244bdfd8b4.png)  
+
 *Circuit Diagram of Voltage Doubler*  
 
 **Procedure:**  
@@ -30,7 +32,8 @@ Ripple is calculated using the formula:
 
 **Observation:**  
 
- 
+ ![image](https://user-images.githubusercontent.com/43489758/132050655-12d8fa9c-9377-4fe6-a0f5-8aced0f1ee5e.png)  
+
 *Output Wave form of Voltage Doubler*
 
 **Precautions:**  
