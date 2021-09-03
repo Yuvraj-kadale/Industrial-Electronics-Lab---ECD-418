@@ -15,6 +15,8 @@ Capacitor input filter is the simplest and cheapest. A high value capacitor C is
 
 **Circuit Diagram:**
  
+ ![image](https://user-images.githubusercontent.com/43489758/132043653-e01f40e1-018d-4cfa-a9b0-5ba1feac8891.png)  
+
 *Full-wave Bridge Rectifier with Capacitor filter.*
 
 
@@ -28,6 +30,7 @@ An AC input is applied to the primary coils of the transformer. This input makes
 
 **Circuit Diagram:**
 
+![image](https://user-images.githubusercontent.com/43489758/132043731-644beca9-73cd-4f06-9a37-fb6f852a1fd5.png)  
  
 *Center tap full wave rectifier with resistive load*  
 
@@ -43,9 +46,12 @@ An AC input is applied to the primary coils of the transformer. This input makes
 
 **Observation:**
 
- 
+ ![image](https://user-images.githubusercontent.com/43489758/132043750-9d8fd54e-0b9b-41f2-b4b5-4f31fdfe3258.png)  
+
 *(a)	Output waveforms of a Full Wave Bridge Rectifier with capacitor filter*  
  
+ ![image](https://user-images.githubusercontent.com/43489758/132043762-434e2912-99a2-4c5b-acda-394884e7b2c4.png)  
+
 *(b)	output waveforms of a Centre tapped Full Wave Rectifier with resistive load*
 
 
