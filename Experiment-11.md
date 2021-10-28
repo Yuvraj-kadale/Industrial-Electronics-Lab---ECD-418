@@ -12,11 +12,13 @@ As the input power source is DC, there is no meaning of single phase with respec
 
 **Circuit Diagram:**
 
- 
+![image](https://user-images.githubusercontent.com/43489758/139190159-2ab564bd-38ae-4c11-ae2b-d271de5ede7e.png)  
 *Single phase half bridge inverter with R load*  
  
+![image](https://user-images.githubusercontent.com/43489758/139190186-9969d8d7-f0b7-417e-b920-e50eeb08d77a.png)  
 *Single phase half bridge inverter with L load*  
 
+![image](https://user-images.githubusercontent.com/43489758/139190212-39fca061-475c-4639-8c9c-56030dc42954.png)  
 *Single phase half bridge inverter with RL load*  
 
 **Procedure:**
@@ -30,11 +32,14 @@ As the input power source is DC, there is no meaning of single phase with respec
 
 **Observation:**
  
+![image](https://user-images.githubusercontent.com/43489758/139190241-f11678a3-18ae-4b58-846b-f6600bdd7a38.png)  
 *Output waveform of single phase half wave rectifier with R load*
 
+![image](https://user-images.githubusercontent.com/43489758/139190288-a63373aa-25d2-42cd-8539-a601a1172a61.png)  
 *Output waveform of single phase half wave rectifier with L load*  
 
-*Output waveform of single phase half wave rectifier with RL load*
+![image](https://user-images.githubusercontent.com/43489758/139190320-22980e25-dd33-4465-9c97-368d50162998.png)  
+*Output waveform of single phase half wave rectifier with RL load*  
 
 
 **Precautions:**
