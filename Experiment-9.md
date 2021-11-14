@@ -8,6 +8,8 @@
 
 **Theory:**  A Step-down chopper is a static device that step downs its DC input voltage. The value of average output DC voltage of this chopper is less than that of its fixed DC input source voltage. This type of chopper is more common.  
 
+![image](https://user-images.githubusercontent.com/43489758/141698075-240eadd8-e0b2-4f77-9c83-d274e4735e98.png)   
+
 *Working principle:*
 
 *Case-1: When Chopper CH is switched ON.*
@@ -20,12 +22,14 @@ When chopper in figure-(i) is switched OFF, the load is disconnected from the so
 This induced emf of inductor makes free-wheeling diode forward biased and hence, free wheeling diode (D) acts as a short during TOFF. Thus, the load current continues to decay through inductor L, free-wheeling diode D and load even though the source Vs is disconnected.  
 
 Formula of Average DC Output Voltage:  
-```
-```
+
+![image](https://user-images.githubusercontent.com/43489758/141698088-a618c693-8a08-4a79-9d32-dedd3091b1d5.png)  
+
 From the above formula, it can be concluded that the output voltage of step-down chopper can be varied from zero to source voltage Vs. This is achieved by varying the duty cycle (α)  
 
 **Circuit Diagram:**  
 
+![image](https://user-images.githubusercontent.com/43489758/141698095-00edaab5-b525-4c97-8bef-b22ac45a1ecd.png)  
 
 *Step-Down Chopper*
 
@@ -40,7 +44,7 @@ From the above formula, it can be concluded that the output voltage of step-down
 
 **Observation:**  
 
-
+![image](https://user-images.githubusercontent.com/43489758/141698106-3d1fd50d-2e7d-4fe2-942a-a3e3e302b92b.png)  
 *Output waveform of Step-Down Chopper*
 
 
