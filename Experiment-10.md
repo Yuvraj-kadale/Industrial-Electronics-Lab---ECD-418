@@ -11,7 +11,7 @@
 
 **Circuit Diagram:**  
 
-
+![image](https://user-images.githubusercontent.com/43489758/141698313-978a31d7-3c5c-4845-a614-bbc2030e6104.png)  
 *Single Phase Semi convertor*
 
 **Procedure:**
@@ -25,7 +25,7 @@
 
 **Observation:**  
 
-
+![image](https://user-images.githubusercontent.com/43489758/141698326-30f15d04-8295-4ffb-9834-d6c8d4905684.png)  
 *waveforms of a single phase semi converter*
 
 
