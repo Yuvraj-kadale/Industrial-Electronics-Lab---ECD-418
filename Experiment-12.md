@@ -22,14 +22,17 @@ A gate turn-off thyristor is a special type of thyristor, which is a high-power 
 
 **Circuit Diagram:**  
 
-
+![image](https://user-images.githubusercontent.com/43489758/142247615-b6a2e3a7-c875-491c-9148-4fbabe612762.png)  
 *Circuit Diagram with thyristor*  
+ 
+![image](https://user-images.githubusercontent.com/43489758/142247649-d0be9625-73bd-4be4-885a-2b7d041568d1.png)  
+*Circuit Diagram with MOSFET*  
 
-*Circuit Diagram with MOSFET*
+![image](https://user-images.githubusercontent.com/43489758/142247669-55ff839a-40aa-4d03-8521-253557a82236.png)  
+*Circuit Diagram with IGBT*  
 
-*Circuit Diagram with IGBT*
-
-*Circuit Diagram with GTO*
+![image](https://user-images.githubusercontent.com/43489758/142247684-5179f697-0803-4634-9878-75a8862055db.png)  
+*Circuit Diagram with GTO*  
 
 **Procedure:**
 
@@ -42,14 +45,17 @@ A gate turn-off thyristor is a special type of thyristor, which is a high-power 
 
 **Observation:**  
 
+![image](https://user-images.githubusercontent.com/43489758/142247699-ba1296fb-1c03-4f99-924f-818e146b7cea.png)  
+*Characteristics of thyristor*  
 
-*Characteristics of thyristor*
+![image](https://user-images.githubusercontent.com/43489758/142247717-0ead9430-ea2d-4329-af98-08a78468e546.png)  
+*Characteristics of MOSFET*  
 
-*Characteristics of MOSFET*
+![image](https://user-images.githubusercontent.com/43489758/142247735-43b9f83f-b927-484d-9091-814451d7059c.png)  
+*Characteristics of IGBT*  
 
-*Characteristics of IGBT*
-
-*Characteristics of GTO*
+![image](https://user-images.githubusercontent.com/43489758/142247749-7dc0a916-1ea4-4d3f-8231-9350b9164260.png)  
+*Characteristics of GTO*  
 
 
 **Precautions:**
