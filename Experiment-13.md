@@ -1,4 +1,4 @@
-# Experiment - 6
+# Experiment - 13
 
 **Aim:** To analyse IGBT based Inverter response with RL and RLC load.  
 
